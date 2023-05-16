@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "688ee902e2a9455b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1280367a0dc0d36e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e619f0359f187a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cc7862f7400e089",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce75fa1cfe1a666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acb839a2d06afbbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "16fc69c6e3077753",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#除了上面提到的一些重要的配置文件之外，还有很多常用的配置文件。以下是一些常见的配置文件：",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2f1179f896fcd64",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "df6854efe1184647",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fbb15580e1b48ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8543adf9604cd48b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f08214dff8540ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e00e6f3b1327b60c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abb365927d561a5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "21e619f0359f187a",
+  "lastOpenFiles": [
+    "md_learning.md",
+    "2023-04-29.md",
+    "Readme.md",
+    "linux 就该这么学/使用 RAID 与 LVM 磁盘阵列技术.md",
+    "linux 就该这么学/iptables 与 firewalld 防火墙.md",
+    "image/Pasted image 20230427115855.png",
+    "image/Pasted image 20230427115658.png",
+    "image/Pasted image 20230427115545.png",
+    "linux 就该这么学/存储结构与磁盘划分.md",
+    "image/Pasted image 20230421202907.png",
+    "image/Pasted image 20230421202021.png",
+    "image/Pasted image 20230421201737.png",
+    "image/Pasted image 20230421201129.png",
+    "image/Pasted image 20230421191149.png",
+    "linux 就该这么学/软件包管理器.md",
+    "linux 就该这么学/存储结构与磁盘划分/未命名.md",
+    "linux 就该这么学/用户身份与文件权限.md",
+    "linux 就该这么学/SHELL.md",
+    "linux 就该这么学/存储结构与磁盘划分",
+    "linux 就该这么学/管道符、重定向与环境变量/编写 Shell 脚本.md",
+    "image/Pasted image 20230413133620.png",
+    "PDF_linux/Linux就该这么学.pdf",
+    "linux 就该这么学/管道符、重定向与环境变量/输入输出重定向.md",
+    "linux 就该这么学/管道符、重定向与环境变量/命令行的通配符.md",
+    "PDF_linux/快乐的 Linux 命令行.pdf",
+    "2023-04-08.md",
+    "未命名.canvas",
+    "PDF_linux/未命名.canvas",
+    "PDF_linux",
+    "linux 就该这么学/管道符、重定向与环境变量/配置主机名称.md",
+    "other/linux 家族关系.md",
+    "linux 就该这么学/管道符、重定向与环境变量/配置网卡信息.md",
+    "linux 就该这么学/管道符、重定向与环境变量/配置 Yum 软件仓库.md",
+    "linux 就该这么学/管道符、重定向与环境变量/常用的转义字符.md",
+    "linux 就该这么学/管道符、重定向与环境变量/重要的环境变量.md",
+    "vim/Vim 文本编辑器.md",
+    "image/Pasted image 20230408102534.png",
+    "other/文件系统层次标准.md",
+    "other/which and whereis.md",
+    "other/shortcut.md",
+    "other/linux_config_file.md",
+    "other/为什么学习linux系统.md",
+    "other",
+    "linux 就该这么学/管道符、重定向与环境变量",
+    "linux 就该这么学/未命名.canvas",
+    "image"
+  ]
+}
